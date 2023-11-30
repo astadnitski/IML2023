@@ -1,0 +1,4 @@
+familiarize with data
+split the data - test, train, validation?
+select model - decision trees, random forests?
+train on training set, then on test set
